@@ -1,6 +1,6 @@
 name: design at mercurypc
 favicon: null
-layout_spectrum: 0.24965
+layout_spectrum: 0.6375392174813896
 typography_spectrum: 0.5768281884957105
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#8dc1e9'
-    - '#cdd6d5'
-    - '#000000'
-    - '#4b4138'
-    - '#756858'
-  brandStrength: 0
-  lightness: 0.6875
-  saturation: 0.5625
-  rhythmicContrast: 1
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5558475323487073
+  lightness: 0.1561405451502651
+  saturation: 0.08065431960858405
+  rhythmicContrast: 0.6276090287137777
 purpose: []
