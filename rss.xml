@@ -2,15 +2,24 @@
     <channel>
         <title><![CDATA[design at mercurypc]]></title>
         <description><![CDATA[design at mercurypc]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.mercurypc.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 14:44:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 27 Feb 2016 14:50:34 GMT</lastBuildDate>
+        <atom:link href="http://www.mercurypc.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[areas covered]]></title>
+            <description><![CDATA[<article><h1>areas covered</h1><p>
+We cover a wide range of areas from Finsbury Park in North London all the way to Harlow in Essex, including Walthamstow, Leytonstone, Woodford, Loughton, Epping and many more!
+Just call us on 07861 769231 for a no obligation quote!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e749fcbc-5dd9-4ada-a124-9c7b1cfef746.PNG"></article>]]></description>
+            <link>http://www.mercurypc.co.uk/areas-covered/index.html</link>
+            <guid isPermaLink="false">3395dc61-3f75-42be-88ea-0817ea361b41</guid>
+            <pubDate>Sat, 27 Feb 2016 14:44:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[responsive web design]]></title>
             <description><![CDATA[<article><h1>responsive web design</h1><p>We offer a very competitive Responsive Website Design and Hosting Service, with prices starting at only £199!
 Call us on 07861 769231</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2e87ed9c90a0df1d1f19f6f194d52755f4e69c4.jpg"></article>]]></description>
-            <link>undefinedresponsive-web-design/index.html</link>
+            <link>http://www.mercurypc.co.uk/responsive-web-design/index.html</link>
             <guid isPermaLink="false">cdc5995c-3b57-4c2c-b4fb-5185f034e637</guid>
             <pubDate>Sat, 27 Feb 2016 14:44:37 GMT</pubDate>
         </item>
