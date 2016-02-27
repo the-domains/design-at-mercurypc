@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-27T15:16:57.466Z'
-dateModified: '2016-02-27T15:12:40.365Z'
+datePublished: '2016-02-27T17:36:16.624Z'
+dateModified: '2016-02-27T17:36:11.073Z'
 title: PC REPAIRS
 author: []
+sourcePath: _posts/2016-02-27-pc-repairs.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-27-pc-repairs.md
-published: true
 url: pc-repairs/index.html
 _type: Article
 
