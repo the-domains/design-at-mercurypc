@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://soundcloud.com/hollowponds/skinny-dip-1'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Stream Skinny Dip by Hollow Ponds from desktop or your mobile device
-datePublished: '2016-02-27T18:03:58.387Z'
-dateModified: '2016-02-27T18:02:54.636Z'
+datePublished: '2016-02-27T18:08:11.382Z'
+dateModified: '2016-02-27T18:04:59.284Z'
 author:
   - name: Hollow Ponds
     url: 'http://soundcloud.com/hollowponds'
@@ -60,6 +59,7 @@ publisher:
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+url: skinny-dip-by-hollow-ponds/index.html
 _type: AudioObject
 _context: 'http://schema.org'
 
