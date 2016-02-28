@@ -1,7 +1,19 @@
 name: design at mercurypc
 favicon: null
-layout_spectrum: 0.40697
+layout_spectrum: 0.50368
 typography_spectrum: 0.5768281884957105
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 cta:
   domain: null
   bucket: null
@@ -22,7 +34,7 @@ color:
     - '#4b4138'
     - '#756858'
   brandStrength: 0
-  lightness: 0.875
-  saturation: 0.4375
-  rhythmicContrast: 0.6276090287137777
+  lightness: 0.8591906
+  saturation: 0.267285
+  rhythmicContrast: 0.5067453
 purpose: []
