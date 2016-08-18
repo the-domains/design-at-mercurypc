@@ -1,7 +1,7 @@
 name: design at mercurypc
 favicon: null
-layout_spectrum: 0.12055681413039565
-typography_spectrum: 0.5175638808868825
+layout_spectrum: 0.5091106013860554
+typography_spectrum: 0.38628917559981346
 title: design at mercurypc
 collections:
   - index:
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#7D8A2E'
-    - '#C9D787'
-    - '#FFFFFF'
-    - '#FFC0A9'
-    - '#FF8598'
-  brandStrength: 0.691647567320615
-  lightness: 0.323817971162498
-  saturation: 0.4262136584147811
-  rhythmicContrast: 0.6282758750021458
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.7007601789664477
+  lightness: 0.8070399451535195
+  saturation: 0.07626391691155732
+  rhythmicContrast: 0.25163687858730555
 purpose: []
